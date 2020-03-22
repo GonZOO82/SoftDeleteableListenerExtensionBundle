@@ -1,5 +1,5 @@
 {
-    "name": "evence/soft-deleteable-extension-bundle",
+    "name": "gon-zoo82/soft-deleteable-extension-bundle",
     "description": "Provides extra functions to the soft deleteable listener of gedmo",
     "authors": [{
         "name": "Ruben Harms",
@@ -8,10 +8,10 @@
     "keywords": ["soft-deleteable"],
     "require": {
         "php": ">=5.3.3 || >=7.1.3",
-        "symfony/framework-bundle": "~2.0 || ~3.0 || ~4.0"
+        "symfony/framework-bundle": "~2.0 || ~3.0 || ~4.0 || ~5.0"
     },
     "require-dev": {
-        "symfony/console": "~2.0 || ~3.0 || ~4.0"
+        "symfony/console": "~2.0 || ~3.0 || ~4.0 || ~5.0"
     },
     "target-dir": "Evence/Bundle/SoftDeleteableExtensionBundle",
     "minimum-stability": "dev",
